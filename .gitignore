@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+
+# ficheiros criados pelo programa quando corre
+loja_*.json
+loja_vendas.csv
+loja_relatorio.txt

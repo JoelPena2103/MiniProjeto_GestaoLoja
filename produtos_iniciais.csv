@@ -1,0 +1,121 @@
+codigo;nome;preco;stock
+P001;Portátil;799.90;5
+P002;Rato;12.50;40
+P003;Teclado;39.99;15
+P004;Monitor;189.00;8
+P005;Auricular;24.90;3
+P006;Router WiFi 6;138.90;12
+P007;Router Mesh 2 Pack;130.90;12
+P008;Disco Externo 2TB;203.90;40
+P009;Router WiFi 6E;234.90;2
+P010;Suporte Monitor Simples;44.99;10
+P011;Coluna Bluetooth Média;83.99;3
+P012;Powerbank 20000mAh;56.00;3
+P013;Pen USB 16GB;26.00;20
+P014;Tinteiro Pack 4;36.99;2
+P015;Powerbank 5000mAh;57.99;2
+P016;Coluna Bluetooth Soundbar;147.90;0
+P017;Tablet Pro 13;363.90;25
+P018;Carregador Sem fios;13.90;3
+P019;Coluna Bluetooth Mini;160.00;2
+P020;Carregador Universal Portátil;8.90;25
+P021;Memória RAM 16GB DDR5;121.00;25
+P022;Carregador USB-C 20W;59.99;12
+P023;Carregador Duplo USB;44.90;10
+P024;Tablet Pro 11;257.00;2
+P025;Tablet 10 polegadas;283.90;0
+P026;Disco Externo 4TB;147.90;3
+P027;Tablet 8 polegadas;118.00;30
+P028;Powerbank Solar;11.90;40
+P029;Smartphone Compacto;450.99;30
+P030;Cadeira Gaming Ergonómica;260.90;3
+P031;Microfone de Lapela;135.90;12
+P032;Memória RAM 32GB DDR4;60.00;8
+P033;Microfone Sem fios;73.00;12
+P034;Pen USB 128GB;42.90;5
+P035;SSD Interno 1TB;46.00;25
+P036;Mochila Antirroubo;24.90;60
+P037;Mochila Viagem;54.90;60
+P038;Impressora Jato de Tinta;72.90;30
+P039;Impressora Laser Cor;167.00;60
+P040;SSD Interno 500GB;126.90;0
+P041;Cabo HDMI 10m;11.90;15
+P042;Smartphone Alto;313.90;20
+P043;Tablet Estudante;371.00;30
+P044;Webcam Compacta;51.90;15
+P045;Mochila Portátil 15;38.00;30
+P046;Hub USB Dock Universal;115.90;2
+P047;Powerbank 65W;24.99;25
+P048;Memória RAM 8GB DDR4;61.00;0
+P049;Hub USB USB-C 5 em 1;112.99;8
+P050;Webcam HD 720p;35.90;5
+P051;Suporte Monitor Articulado;94.90;8
+P052;Impressora Multifunções;174.90;40
+P053;Pen USB 64GB;39.90;60
+P054;Tablet Infantil;429.99;3
+P055;Impressora Fotográfica;165.00;8
+P056;Router WiFi 5;226.00;10
+P057;Hub USB USB-C 8 em 1;38.90;12
+P058;Carregador USB-C 65W;54.90;2
+P059;Smartphone Rugged;884.90;30
+P060;Microfone Podcast Kit;86.90;30
+P061;Cabo HDMI 1m;16.90;10
+P062;Cadeira Gaming Reclinável;244.99;60
+P063;Tinteiro Fotográfico;39.00;20
+P064;Suporte Monitor Duplo;27.90;15
+P065;Suporte Monitor Elevador;79.00;2
+P066;Tinteiro Preto;50.99;0
+P067;Memória RAM 8GB DDR5;115.90;8
+P068;SSD Interno 250GB;117.90;3
+P069;Pen USB 32GB;23.00;20
+P070;Tinteiro Cor;55.90;30
+P071;Hub USB com Alimentação;105.00;12
+P072;Microfone Condensador;30.00;10
+P073;Powerbank com Cabo;53.99;20
+P074;Coluna Bluetooth À Prova de Água;82.99;20
+P075;Disco Externo 1TB;81.99;0
+P076;Tinteiro Cor XL;25.99;10
+P077;SSD Interno 2TB;132.00;0
+P078;Suporte Monitor Portátil;52.90;20
+P079;Smartphone Básico;610.99;12
+P080;Cabo HDMI 2m;26.00;40
+P081;Webcam Full HD;109.90;60
+P082;Impressora Laser Mono;157.90;8
+P083;Mochila Impermeável;41.99;30
+P084;Cadeira Gaming Básica;297.99;15
+P085;Powerbank 10000mAh;48.00;30
+P086;Hub USB 4 portas;80.00;8
+P087;Smartphone Dobrável;571.90;15
+P088;Webcam Streaming;24.90;2
+P089;Cadeira Gaming Executiva;248.99;12
+P090;Disco Externo SSD 1TB;124.99;2
+P091;Impressora Portátil;198.00;0
+P092;Suporte Monitor Parede;52.00;20
+P093;Tinteiro Preto XL;24.99;0
+P094;Router Gaming;161.90;20
+P095;Carregador Carro;33.90;2
+P096;Cabo HDMI 5m;14.90;8
+P097;SSD Interno NVMe 1TB;93.90;5
+P098;Smartphone Médio;636.90;25
+P099;Memória RAM 16GB DDR4;116.90;0
+P100;Cabo HDMI Ultra HD 2m;21.00;15
+P101;Microfone USB;51.00;2
+P102;Webcam 4K;78.90;60
+P103;Pen USB 512GB;6.90;60
+P104;Disco Externo 500GB;129.90;25
+P105;Cabo HDMI 3m;15.90;60
+P106;Coluna Bluetooth Grande;144.00;20
+P107;Cadeira Gaming Infantil;154.90;2
+P108;Mochila Escolar;35.90;3
+P109;Memória RAM 32GB DDR5;138.00;5
+P110;Hub USB 7 portas;74.90;8
+P111;SSD Interno NVMe 500GB;94.99;10
+P112;Webcam com Microfone;97.90;5
+P113;Cadeira Gaming Malha;301.99;3
+P114;Disco Externo SSD 2TB;147.90;30
+P115;Router 4G;241.00;12
+P116;Tapete de Rato XL;9.99;35
+P117;Pen USB 256GB;18.00;0
+P118;Cabo USB-C 1m;abc;30
+P119;Hub USB 3 portas;19.90;
+P005;Auricular Duplicado;9.90;4
